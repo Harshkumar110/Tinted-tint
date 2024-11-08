@@ -1,0 +1,207 @@
+@media only screen and (max-width:1377px) {
+    .HeadText {
+        padding-top: 35px;
+        display: grid;
+        grid-template-columns: 1fr;
+
+        height: 1000px;
+    }
+
+    .HeadText img {
+        height: 590px;
+        position: relative;
+        right: -27px;
+        top: 59px;
+    }
+
+    .section2 {
+
+        display: grid;
+        grid-template-columns: 1fr;
+        height: 1100px;
+    }
+
+    .video1 video {
+        height: 346px;
+        width: 759px;
+        position: relative;
+        top: -94px;
+        right: -183px;
+    }
+
+   
+    .cofounders img {
+        position: relative;
+        right: 200px;
+    }
+    .beanifits img {
+        position: relative;
+        right: 154px;
+        
+    }
+
+    .cards {
+        display: grid;
+        grid-template-columns: 0.1fr;
+        /* display: inline; */
+        height: 500px;
+        justify-items: center;
+
+        justify-content: center;
+    }
+
+  
+
+    .section3 {
+        height: 1800px;
+    }
+
+    .cards2 {
+        display: grid;
+        grid-template-columns: 1fr;
+       position: relative;
+       right: 25px;
+    }
+    .cards2 img{
+        position: relative;
+        right: 204px;
+    }
+
+    .section4 {
+        height: 1300px;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        justify-self: center;
+    }
+
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: black;
+        color: white;
+        height: 600px;
+        margin: 10px;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        justify-self: center;
+    
+    }
+    .section5 {
+        height: 1100px;
+        background-color: black;
+        
+    }
+    
+
+}
+
+
+
+
+@media only screen and (max-width:1000px) { 
+
+    .HeadText {
+        padding-top: 35px;
+        display: inline-block;
+        height: 1050px;
+    }
+    .product{
+        display: flex;
+    }
+
+    .HeadText img {
+        height: 590px;
+        
+        position: relative;
+        right: -27px;
+        top: 125px;
+    }
+
+    .section2 {
+
+        display: flex;
+        /* grid-template-columns: 1fr; */
+        height: 1100px;
+    }
+
+    .video1 video {
+        height: 346px;
+        width: 759px;
+        position: relative;
+        top: -94px;
+        right: -98px;
+    }
+
+   
+    .cofounders img {
+        position: relative;
+        right: 200px;
+    }
+    .beanifits img {
+        position: relative;
+        right: 154px;
+        
+    }
+
+    .cards {
+        display: grid;
+        grid-template-columns: 0.1fr;
+        /* display: inline; */
+        height: 500px;
+        justify-items: center;
+
+        justify-content: center;
+    }
+
+  
+
+    .section3 {
+        height: 1800px;
+    }
+
+    .cards2 {
+        display: grid;
+        grid-template-columns: 1fr;
+       position: relative;
+       right: 25px;
+    }
+    .cards2 img{
+        position: relative;
+        right: 204px;
+    }
+
+    .section4 {
+        height: 1300px;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        justify-self: center;
+    }
+
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: black;
+        color: white;
+        height: 600px;
+        margin: 10px;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        justify-self: center;
+    
+    }
+    .section5 {
+        height: 1100px;
+        background-color: black;
+        
+    }
+    
+
+
+
+
+
+}
